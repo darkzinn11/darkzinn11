@@ -24,7 +24,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilo-di-armanni-83364a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilo-di-armanni-83364a273/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilo-di-armanni-83364a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilodiarmanni" height="30" width="40" /></a>
 <a href="https://instagram.com/nilodiarmanniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilodiarmanniii" height="30" width="40" /></a>
 </p>
 
