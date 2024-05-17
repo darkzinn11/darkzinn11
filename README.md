@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<iframe src="https://giphy.com/embed/MsdVVLSrPZYli" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animes-triste-doido-MsdVVLSrPZYli">via GIPHY</a></p>
+
 <img src="https://github.com/darkzinn11/darkzinn11/blob/main/img/moderno%20de%20programa%C3%A7%C3%A3o.png" />
 
 <p align="center">
