@@ -3,6 +3,7 @@
 <p align="center">
  
 </p align="center">
+<img src="https://github.com/darkzinn11/darkzinn11/blob/main/img/moderno%20de%20programa%C3%A7%C3%A3o.png" />
 
 <p align="center">
  
@@ -43,8 +44,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=darkzinn11&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=darkzinn11&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy">
 </p>
 
 <p align = "center">
