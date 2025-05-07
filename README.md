@@ -4,7 +4,7 @@
  
 </p align="center">
 
-<img src="https://github.com/darkzinn11/darkzinn11/blob/main/img/moderno%20de%20programa%C3%A7%C3%A3o.png" />
+<img src="img/moderno de programação.png" />
 
 <p align="center">
  
