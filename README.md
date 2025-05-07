@@ -4,7 +4,7 @@
  
 </p align="center">
 
-<img src="img/moderno de programação.png" />
+<img src="moderno de programação.png" />
 
 <p align="center">
  
