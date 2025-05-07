@@ -16,7 +16,7 @@
 </p>
 
 <!-- <p align="center">
-  Eu sou um estudante do 3º semestre que cursa engenharia de software 🎓 da Unidade de Ensino Superior Dom Bosco - UNDB 🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar em tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas ✨ da vida real. Além disso, também adoro trabalho em equipe e adiquirir novos conhecimentos 💻. Sou apaixonado em back-end🕸️.
+  Eu sou um estudante do 5º semestre que cursa engenharia de software 🎓 da Unidade de Ensino Superior Dom Bosco - UNDB 🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar em tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas ✨ da vida real. Além disso, também adoro trabalho em equipe e adiquirir novos conhecimentos 💻. Sou apaixonado em back-end🕸️.
 </p>   -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
